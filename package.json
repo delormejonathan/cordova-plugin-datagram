@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "cordova-plugin-datagram",
+  "cordova_name": "Datagram",
+  "description": "",
+  "license": "MIT",
+  "repo": "https://github.com/delormejonathan/cordova-plugin-datagram",
+  "issue": "",
+  "keywords": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ]
+}
