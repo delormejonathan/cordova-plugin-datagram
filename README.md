@@ -8,7 +8,7 @@ In order to improvement, masashiGMS modified some code from original.
 
 ###Install
 ```bash
-$> cordova plugin add https://github.com/masashiGMS/cordova-plugin-datagram.git
+$> cordova plugin add https://github.com/delormejonathan/cordova-plugin-datagram.git
 ```
 
 -----
